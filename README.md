@@ -1,4 +1,4 @@
-# The Node.js library and CLI for Moonshot AI
+# The CLI for Moonshot AI
 
 [![Node.js CI](https://github.com/JacksonTian/kimi-cli/actions/workflows/test.yaml/badge.svg)](https://github.com/JacksonTian/kimi-cli/actions/workflows/test.yaml)
 [![codecov][cov-image]][cov-url]

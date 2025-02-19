@@ -1,16 +1,16 @@
 # The Node.js library and CLI for Moonshot AI
 
-[![Node.js CI](https://github.com/JacksonTian/kimi/actions/workflows/test.yaml/badge.svg)](https://github.com/JacksonTian/kimi/actions/workflows/test.yaml)
+[![Node.js CI](https://github.com/JacksonTian/kimi-cli/actions/workflows/test.yaml/badge.svg)](https://github.com/JacksonTian/kimi-cli/actions/workflows/test.yaml)
 [![codecov][cov-image]][cov-url]
 [![NPM version][npm-image]][npm-url]
 [![npm download][download-image]][download-url]
 
-[npm-image]: https://img.shields.io/npm/v/%40jacksontian%2Fkimi
-[npm-url]: https://npmjs.org/package/@jacksontian/kimi
-[cov-image]: https://codecov.io/gh/JacksonTian/kimi/branch/master/graph/badge.svg
-[cov-url]: https://codecov.io/gh/JacksonTian/kimi
-[download-image]: https://img.shields.io/npm/dm/%40jacksontian%2Fkimi
-[download-url]: https://npmjs.org/package/@jacksontian/kimi
+[npm-image]: https://img.shields.io/npm/v/%40jacksontian%2Fkimi-cli
+[npm-url]: https://npmjs.org/package/@jacksontian/kimi-cli
+[cov-image]: https://codecov.io/gh/JacksonTian/kimi-cli/branch/master/graph/badge.svg
+[cov-url]: https://codecov.io/gh/JacksonTian/kimi-cli
+[download-image]: https://img.shields.io/npm/dm/%40jacksontian%2Fkimi-cli
+[download-url]: https://npmjs.org/package/@jacksontian/kimi-cli
 
 ## Installation/安装
 
